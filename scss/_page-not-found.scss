@@ -1,0 +1,20 @@
+.s-page-not-found {
+  background-color: #2069c2;
+  padding-top: 16rem;
+  padding-bottom: 10rem;
+
+  .container {
+    @include flex(column, center, center);
+  }
+
+  h1 {
+    color: $white;
+    margin-bottom: 3.2rem;
+  }
+
+  p {
+    font-size: 2.4rem;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 6.4rem;
+  }
+}
