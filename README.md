@@ -72,6 +72,6 @@ O CodeBoost Neon WordPress é distribuído sob a licença [MIT](https://opensour
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou feedback sobre o projeto CodeBoost Neon WordPress, sinta-se à vontade para entrar em contato com a equipe do projeto enviando um e-mail para [mailto:joaoneto.work@gmail.com]
+Se você tiver alguma dúvida, sugestão ou feedback sobre o projeto CodeBoost Neon WordPress, sinta-se à vontade para entrar em contato com a equipe do projeto enviando um e-mail para [joaoneto.work@gmail.com](mailto:joaoneto.work@gmail.com)
 
 Agradecemos pelo seu interesse e apoio ao CodeBoost Neon WordPress! Esperamos que esse projeto seja útil e inspire suas próprias criações.
